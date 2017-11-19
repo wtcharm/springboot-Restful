@@ -20,7 +20,7 @@
 			<artifactId>bootrestful-api</artifactId>
 		</dependency>
 		<!--  swagger 集成 开始-->
-		<dependency>
+		<!-- <dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger2</artifactId>
 			<version>2.7.0</version>
@@ -29,7 +29,7 @@
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger-ui</artifactId>
 			<version>2.7.0</version>
-		</dependency>
+		</dependency> -->
 		<!--  swagger 集成 结束-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
